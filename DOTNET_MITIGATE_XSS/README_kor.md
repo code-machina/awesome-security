@@ -108,7 +108,9 @@ def my_blog_article_view(request):
 
 ```
 
+### 2.2 XSS Sanitize Backend Module
 
+.Net 기반 환경에서는 Nuget 패키지를 이용해서 간편하게 솔루션을 사용할 수 있다.
 
 
 
